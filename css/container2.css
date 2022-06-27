@@ -1,0 +1,24 @@
+.div1__2 {
+    display: flex;
+    justify-content: space-between;
+}
+.container2__text1 {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+color: #000000;
+}
+.container2__text2 {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 60px;
+color: #FB8F1D;
+}
+.div2__2 {
+    display: flex;
+    justify-content: center;
+}

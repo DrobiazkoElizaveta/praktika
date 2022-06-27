@@ -1,0 +1,43 @@
+.container4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+.container4__text1 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px; 
+    color: #000000;
+}
+.container4__stars {
+    margin-top: 50px;
+}
+.container4__text2 {
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+color: #000000;
+}
+.container4__text3 {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 48px;
+color: #000000;
+}
+.container4__text4 {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 48px;
+color: rgba(0, 0, 0, 0.85);
+}
+.container4__foto img {
+    width: 300px;
+}

@@ -1,0 +1,15 @@
+.div1__5 {
+    display: flex;
+    justify-content: space-between;
+}
+.div2__5 {
+    display: flex;
+    justify-content: space-around;
+}
+.div3__5 {
+    display: flex;
+    flex-direction: row;
+}
+.container5__foto img{
+    width: 200px;
+}

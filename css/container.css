@@ -21,7 +21,12 @@
   line-height: 80px;
   color: #202336;
 }
-
+.container__text1::before {
+  content: "";
+  background: url(images/element1.svg);
+  width: 100px;
+  height: 100px;
+}
 .container__text2 {
   position: relative;
   font-family: "Inter";
