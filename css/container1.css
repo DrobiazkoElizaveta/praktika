@@ -1,0 +1,43 @@
+.container1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 1500px;
+  margin-top: 40px;
+}
+.div1__1 {
+  margin-left: 300px;
+}
+.div2__1 {
+  width: 800px;
+  margin-left: 100px;
+}
+.container1__button {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  padding: 15px 50px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  box-sizing: border-box;
+  background: #fb8f1d;
+  border: 1px solid #fb8f1d;
+  border-radius: 8px;
+}
+.container1__text1 {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 50px;
+}
+.container1__text2 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 30px;
+  color: #7d7987;
+}
