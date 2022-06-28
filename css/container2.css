@@ -1,24 +1,50 @@
+.container2 {
+  margin-top: 200px;
+}
 .div1__2 {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-around;
 }
 .container2__text1 {
-    font-family: 'Playfair Display';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 50px;
-color: #000000;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 50px;
+  color: #000000;
 }
 .container2__text2 {
-    font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 17px;
-line-height: 60px;
-color: #FB8F1D;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 60px;
+  color: #fb8f1d;
+  display: flex;
+  justify-content: space-around;
 }
 .div2__2 {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.div2__2 img {
+  width: 270px;
+  border-radius: 10px;
+}
+.div2__2 h4 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  color: #042521;
+  margin-left: 15px;
+  margin-top: -60px;
+}
+.div2__2 p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  margin-left: 15px;
 }
