@@ -3,13 +3,16 @@
 }
 .div1__5 {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  width: 1150px;
+  margin-left: 250px;
 }
 .div2__5 {
   display: flex;
   width: 1000px;
   margin: 10px;
-  margin-left: 370px;
+  margin-left: 125px;
+  margin-top: 40px;
 }
 .div2__5 img {
   width: 270px;
@@ -66,4 +69,15 @@
 .container5__foto3 h4,
 .container5__foto4 h4 {
   width: 280px;
+}
+.div1__5element {
+  margin-left: 1005px;
+  margin-top: 70px;
+}
+.div1__5element1 {
+  margin-left: 700px;
+}
+.div1__5element2 {
+  margin-right: 80px;
+  margin-top: 170px;
 }

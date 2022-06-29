@@ -3,7 +3,9 @@
 }
 .div1__2 {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  width: 1130px;
+  margin-left: 230px;
 }
 .container2__text1 {
   font-family: "Playfair Display";
@@ -26,7 +28,7 @@
 .div2__2 {
   display: flex;
   justify-content: center;
-  margin-top: 40px;
+  margin-top: -260px;
 }
 .div2__2 img {
   width: 270px;
@@ -47,4 +49,15 @@
   font-weight: 600;
   font-size: 17px;
   margin-left: 15px;
+}
+.div1__2element {
+margin-left: 1130px;
+}
+.div1__2element1 {
+  margin-top: 60px;
+  margin-left: 740px;
+}
+.div1__2element2 {
+ margin-top: 280px;
+ margin-left: 110px;
 }
