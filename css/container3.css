@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 1700px;
+  max-width: 1700px;
   margin-top: 200px;
 }
 .div1__3 {
@@ -31,7 +31,7 @@
   line-height: 30px;
   color: #7d7987;
   margin-left: -10px;
-  width: 470px;
+  max-width: 470px;
 }
 .container3__button {
   font-family: "Inter";

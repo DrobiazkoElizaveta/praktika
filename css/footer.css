@@ -23,7 +23,7 @@ footer div {
   margin-top: 30px;
 }
 .footer__logo p {
-  width: 370px;
+  max-width: 370px;
   margin-left: 15px;
   font-family: "Mulish";
   font-style: normal;

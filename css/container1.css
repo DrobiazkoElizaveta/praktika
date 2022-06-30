@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 1500px;
+  max-width: 1500px;
   margin-top: 200px;
 }
 .div1__1 {
@@ -47,7 +47,7 @@
   font-size: 17px;
   line-height: 30px;
   color: #7d7987;
-  width: 460px;
+  max-width: 460px;
   margin-top: 10px;
   margin-left: -10px;
 }
