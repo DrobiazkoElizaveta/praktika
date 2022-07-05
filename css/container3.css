@@ -2,11 +2,9 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  max-width: 1700px;
-  margin-top: 200px;
 }
 .div1__3 {
-  width: 460px;
+  max-width: 480px;
   margin-left: 100px;
   margin-top: -70px;
 }
@@ -20,8 +18,8 @@
   font-size: 36px;
   line-height: 50px;
   color: #000000;
-  width: 400px;
-  margin-top: 30px;
+  max-width: 400px;
+  /* margin-top: 30px; */
 }
 .container3__text2 {
   font-family: "Mulish";

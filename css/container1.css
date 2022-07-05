@@ -5,12 +5,8 @@
   max-width: 1500px;
   margin-top: 200px;
 }
-.div1__1 {
-  margin-left: 230px;
-}
 .div2__1 {
-  width: 600px;
-  margin-left: 90px;
+  max-width: 500px;
 }
 .container1__button {
   font-family: "Inter";
