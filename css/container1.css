@@ -24,6 +24,12 @@
   margin-top: 20px;
   margin-left: -3px;
 }
+.container1__button:hover {
+  cursor: pointer;
+  color: #fb8f1d;
+  background: white;
+  box-shadow: 10px 10px 5px -5px rgba(180, 180, 180, 1);
+}
 .container1__text1 {
   font-family: "Playfair Display";
   font-style: normal;

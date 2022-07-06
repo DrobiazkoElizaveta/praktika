@@ -19,7 +19,6 @@
   line-height: 50px;
   color: #000000;
   max-width: 400px;
-  /* margin-top: 30px; */
 }
 .container3__text2 {
   font-family: "Mulish";
@@ -46,6 +45,12 @@
   border-radius: 8px;
   margin-left: -3px;
   margin-top: 20px;
+}
+.container3__button:hover {
+  cursor: pointer;
+  color: #fb8f1d;
+  background: white;
+  box-shadow: 10px 10px 5px -5px rgba(180, 180, 180, 1);
 }
 .div1__3element {
   margin-left: 50px;

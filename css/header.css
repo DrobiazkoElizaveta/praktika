@@ -13,6 +13,7 @@ header {
   line-height: 19px;
 }
 img {
+  cursor: pointer;
   margin: 10px;
 }
 p {
@@ -20,6 +21,7 @@ p {
   display: flex;
   align-items: center;
   color: #b8becd;
+  cursor: pointer;
 }
 .header__home {
   color: black;
@@ -42,6 +44,12 @@ button {
   border: 1px solid #fb8f1d;
   border-radius: 8px;
 }
+.header__login:hover {
+  cursor: pointer;
+  color: white;
+  background: #fb8f1d;
+  box-shadow: 10px 10px 5px -5px rgba(180, 180, 180, 1);
+}
 .header__register {
   font-family: "Inter";
   font-style: normal;
@@ -55,4 +63,10 @@ button {
   background: #fb8f1d;
   border: 1px solid #fb8f1d;
   border-radius: 8px;
+}
+.header__register:hover {
+  cursor: pointer;
+  color: #fb8f1d;
+  background: white;
+  box-shadow: 10px 10px 5px -5px rgba(180, 180, 180, 1);
 }

@@ -63,6 +63,12 @@
   border-radius: 8px;
   margin-left: -1px;
 }
+.container__button:hover {
+  cursor: pointer;
+  color: #fb8f1d;
+  background: white;
+  box-shadow: 10px 10px 5px -5px rgba(180, 180, 180, 1);
+}
 .container__select {
   display: flex;
   flex-wrap: wrap;
