@@ -1,0 +1,19 @@
+.kontakti {
+    max-width: 1300px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+.text_kontakti {
+    font-family: "Courier New";
+  font-style: monospace;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 30px;
+  color: #000000;
+  max-width: 700px;
+  display: flex;
+  justify-content: center;
+}
